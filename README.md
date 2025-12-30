@@ -1,1 +1,1 @@
-This is a demo repo for explaination
+This is a demo repo for explaination for students
